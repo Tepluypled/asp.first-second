@@ -1,0 +1,16 @@
+C:\Users\n4fanya\Desktop\WebApplication2\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\n4fanya\Desktop\WebApplication2\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\n4fanya\Desktop\WebApplication2\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\n4fanya\Desktop\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.deps.json
+C:\Users\n4fanya\Desktop\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.runtimeconfig.json
+C:\Users\n4fanya\Desktop\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.runtimeconfig.dev.json
+C:\Users\n4fanya\Desktop\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.dll
+C:\Users\n4fanya\Desktop\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.pdb
+C:\Users\n4fanya\Desktop\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.csprojAssemblyReference.cache
+C:\Users\n4fanya\Desktop\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\n4fanya\Desktop\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\n4fanya\Desktop\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\n4fanya\Desktop\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.AssemblyInfo.cs
+C:\Users\n4fanya\Desktop\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\n4fanya\Desktop\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.dll
+C:\Users\n4fanya\Desktop\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.pdb
